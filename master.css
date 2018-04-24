@@ -1,0 +1,52 @@
+body {
+  background: url("https://images.unsplash.com/photo-1455390582262-044cdead277a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c63357d1e6bdc82b5f166c5fb8314bb5&auto=format&fit=crop&w=966&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.navbar-brand {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.display-4 {
+   font-family: 'Kaushan Script', cursive;
+   text-align: center;
+   color: #343a40
+}
+
+.jumbotron {
+  margin-top: 60px;
+}
+
+.icons {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.fa-facebook-official {
+  color: #3b5998;
+}
+
+.fa-youtube {
+  color: #cc181e;
+}
+
+.fa-twitter-square {
+  color: #55acee;
+}
+
+p {
+  color: #343a40;
+}
+
+.icons {
+  margin-top: 60px;
+}
+
+.h3 {
+   font-family: 'Kaushan Script', cursive;
+   text-align: center;
+   color: #343a40
+}
